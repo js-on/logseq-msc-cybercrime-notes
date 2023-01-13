@@ -1,0 +1,2 @@
+- # Basics
+- The basics of criminology are simple. It's based on the science of Sociology and other
