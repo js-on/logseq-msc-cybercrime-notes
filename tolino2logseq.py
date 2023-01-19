@@ -4,6 +4,14 @@ from hashlib import md5
 import os
 import re
 
+print(r'  __         .__  .__              ________ .__                                    ')
+print(r'_/  |_  ____ |  | |__| ____   ____ \_____  \|  |   ____   ____  ______ ____  ______')
+print(r'\   __\/  _ \|  | |  |/    \ /  _ \ /  ____/|  |  /  _ \ / ___\/  ___// __ \/ ____/')
+print(r' |  | (  <_> )  |_|  |   |  (  <_> )       \|  |_(  <_> ) /_/  >___ \\  ___< <_|  |')
+print(r' |__|  \____/|____/__|___|  /\____/\_______ \____/\____/\___  /____  >\___  >__   |')
+print(r'                          \/               \/          /_____/     \/     \/   |__|')
+print('                           (c) Luna S., 2023\n\n')
+
 day_endings = {
   1: 'st',
   2: 'nd',
@@ -34,19 +42,10 @@ class TolinoHighlight():
     s = f"""	- {self.title}
 	      date_saved:: [[{self.date}]]
         page:: {self.page}
-		- > {self.marker}
+		    marker:: {self.marker}
     {f'  - *Note:*{nl}        > {self.note}' if self.note else ''}"""
     return s
-  
-  # def to_markdown(self):
-  #   s = f"""  - **{self.title}**
-  #       date_saved:: [[{self.date}]]
-  #       page:: {self.page}
-  #     - *Marked text:*
-  #       > {self.marker}"""
-  #   if self.note:
-  #     s += f"\n      - *Note:*\n        > {self.note}"
-  #   return s
+
 
 devices = os.listdir("/run/user/1000/gvfs")
 tolino_dir = next(
@@ -67,6 +66,7 @@ with open(os.path.join(shared_storage, "notes.txt"), "r") as f:
 
 highlights: List[TolinoHighlight] = []
 ids: List[str] = []
+print("[ ] Parsing notes.txt", end='\r')
 for line in data:
   title = line.splitlines()[0]
   date = re.findall(r'[^\d]+(\d+\.\d+\.\d+\s\|\s\d+:\d+).*', line)[0]
@@ -100,9 +100,14 @@ for line in data:
     if th.id not in ids:
       highlights.append(th)
       ids.append(th.id)
+print("[*] Parsing notes.txt", end='\n')
 
+print("[ ] Convert items to markdown", end='\r')
 with open(os.path.join(logseq_folder, "TolinoHighlights.md"), "w") as f:
   f.write("- ## 📕 Tolino Highlights\n")
   for highlight in highlights:
     f.write(highlight.to_markdown())
     f.write("\n\n")
+
+print("[*] Convert items to markdown", end='\n')
+print("\nDone. Thanks for using tolino2logseq...")
