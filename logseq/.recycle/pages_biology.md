@@ -1,0 +1,4 @@
+- Tell me basics of modern biology with special focus on cyber crime.
+	- Modern biology is the study of life sciences and the way organisms interact with each other and their environment. It covers a broad range of topics including molecular biology, genetics, ecology, and evolutionary biology.
+	  
+	  Cyber crime, also known as internet crime, is a term used to describe any criminal activity that occurs online, or over computers and networks. Cyber criminals use technology to exploit vulnerable people and organizations in order to gain access to their confidential information or to engage in illegal activities. Cyber crime is growing and there are several types of cyber-criminal activity such as phishing, identity theft, cyberbullying, and cyberterrorism. To combat cyber crime, countries are implementing laws and regulations, as well as investing in cyber security measures.

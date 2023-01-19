@@ -1,0 +1,2 @@
+- Definition of identity theft.
+	- Identity theft is the illegal use of someone else's personal information, such as a Social Security number, bank account number, driver's license number, or credit card number, in order to obtain goods, services, or financial resources without their knowledge or consent. It can include stealing someone's identity to open a bank account, applying for a government document or benefit, creating fraudulent accounts, filing a false tax return, or any other activity carried out using someone else's identity.

@@ -1,0 +1,2 @@
+- Definition of child pornography.
+	- Child pornography is any form of visual media that depicts or promotes the sexual exploitation of minors, including any form of sexual activity with a minor or suggestive poses of a minor in a lewd or lascivious manner. This includes images, videos, cartoons, or drawings of minors engaged in sexual activity or displaying their nude or sexualized body.

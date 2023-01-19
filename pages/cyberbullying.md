@@ -1,0 +1,3 @@
+- Definition of cyberbullying.
+	- Cyberbullying is the use of electronic communication to intimidate, threaten, or harass another person, often through social media and other online platforms, to cause emotional distress or harm. Cyberbullying includes sending hurtful messages, posts, or images, online public shaming, impersonating someone online, encouraging or inciting others to bully someone, and cyberstalking.
+-

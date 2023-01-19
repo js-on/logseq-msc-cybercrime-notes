@@ -1,0 +1,2 @@
+- What is White-collar Crime in the context of cybercrime?
+	- White-collar crime in the context of cybercrime is a term used to describe criminal activities committed for financial gain by individuals or groups with an expansive knowledge of computers and technology. These activities may include fraud, identity theft, data theft and other illegal activities conducted using digital tools such as the internet and computers.

@@ -1,0 +1,2 @@
+- Definition of hacking.
+	- Hacking is the unauthorised access and control of a computer system or network. This activity can be done with computers, networks, websites and cellular phones. Hacking is usually done remotely, and is done with the intent of stealing or manipulating data, or in some cases, just for the thrill of defeating security features.

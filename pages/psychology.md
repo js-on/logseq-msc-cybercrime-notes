@@ -1,0 +1,8 @@
+- Psychology basics with special focus on cyber crime.
+	- Psychology is the study of the mind, its processes, behaviour, and emotions. It is an important area of study that helps us to better understand ourselves and others in our lives. In terms of cyber crime, psychology plays an important role in understanding how criminals think and how to prevent them from carrying out malicious attacks.
+	  
+	  Psychology can be used to understand why someone may engage in cyber crime. Factors such as a lack of attachment to authorities, difficulty in forming relationships, and a need for recognition can all lead someone to seek out the rewards and recognition that come with a successful hack. Similarly, certain personalities might be more likely to engage in cyber crime than others, particularly if they enjoy feeling in control or powerful.
+	  
+	  When it comes to understanding cyber crime, it's also important to note how cyber criminals can use psychology to manipulate their victims. By understanding the techniques they use to gain access to victims' personal information, such as social engineering, blackmail, and disinformation tactics, governments, companies, and individuals can better protect themselves.
+	  
+	  Being able to study the psychological underpinnings of cyber crime is critical to understanding and preventing it. By understanding what drives perpetrators and understanding their techniques, helpful strategies can be employed to help prevent future cyber attacks.

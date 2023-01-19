@@ -1,0 +1,2 @@
+- Definition of cyberstalking.
+	- Cyber stalking is the use of the Internet, email, or other electronic communication devices to stalk, harass, or threaten another person or group. It can involve verbal abuse or threats, the unauthorised monitoring of the victim's activities, or providing false information about the victim to third parties. The stalker can also use technology to obtain personal information about the victim or use the internet to spread harmful rumours or defamatory statements about the victim.

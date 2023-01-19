@@ -1,0 +1,2 @@
+- Definition of online fraud.
+	- Online fraud is any type of criminal activity or deception that is committed via the Internet or other digital devices. Examples of online fraud include phishing, scams, malicious hacking, identity theft, and credit card fraud.
