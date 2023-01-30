@@ -50,18 +50,26 @@
 			  Vulnerabilities:
 				- Includes systems, protocols and tools, that are necessary for a specific activity, but those can be used both **legitimately and illicitly**.
 				- The Onion Router (TOR) can be either used
-					- by states and private companies to conduct a nuber of specialised socio-political activities
+					- by states and private companies to conduct a number of specialised socio-political activities
 					- or by criminals
 			- **Information layer**
 			  > The information layer includes the creation and distribution of information and interaction between users. Users can create information by building a website, linking to other websites, and posting information on social media websites such as Twitter, Facebook or Yelp. Users can also access information, including music, books, videos and pictures.
 			  
 			  Vulnerabilities:
-				- asd
+				- because of weak governance of the Internet, harmful / inappropriate content has begun to fill the online space
+					- online suicide content
+					- live streaming of crimes on social media
+					- hate motivated ideologies
+					- revenge porn
+					- cyberbullying
 			- **Personal Layer**
 			  > The top layer consists of people - people who create websites, tweet, blog and buy goods online.
 			  
 			  Vulnerabilities:
-				- asd
+				- Social Engineering
+					- Phishing
+					- Spear Phishing
+					- ((63d7f820-b7b7-4901-bbb3-49aac96abb42))
 		- Cyberspace architecture is of complex nature, since different entities / stakeholders with different motivations / objectives / agendas interact / influence activities within cyberspace.
 		- Developing / Implementing security policies / strategies is problematic / challenging.
 	- **Cyberspace as a complex socio-technical domain**
