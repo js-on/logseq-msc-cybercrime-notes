@@ -46,17 +46,30 @@
 					- attacks on the landing zone of the cable where they come on the shore
 			- **Logic Layer**
 			  > The logic layer is where the platform nature of the Internet is defined and created. Stated differently, cyberspace depends on the design of the Internet. It is built out of components that provide services for users, such as social media, content, shopping, etc.
+			  
+			  Vulnerabilities:
+				- Includes systems, protocols and tools, that are necessary for a specific activity, but those can be used both **legitimately and illicitly**.
+				- The Onion Router (TOR) can be either used
+					- by states and private companies to conduct a nuber of specialised socio-political activities
+					- or by criminals
 			- **Information layer**
 			  > The information layer includes the creation and distribution of information and interaction between users. Users can create information by building a website, linking to other websites, and posting information on social media websites such as Twitter, Facebook or Yelp. Users can also access information, including music, books, videos and pictures.
+			  
+			  Vulnerabilities:
+				- asd
 			- **Personal Layer**
 			  > The top layer consists of people - people who create websites, tweet, blog and buy goods online.
+			  
+			  Vulnerabilities:
+				- asd
 		- Cyberspace architecture is of complex nature, since different entities / stakeholders with different motivations / objectives / agendas interact / influence activities within cyberspace.
 		- Developing / Implementing security policies / strategies is problematic / challenging.
 	- **Cyberspace as a complex socio-technical domain**
 		- achieves importance through human design / implementation
 		- despite cyber being technical, cyberspace is a domain of human activity / interactions
-		- centrality of humans in cyberspace makes social approaches imperatove to the study of cyber security.
-		-
+		- the centrality of humans in cyberspace makes social approaches imperative to the study of cyber security.
+		- it is required to develop **different perspectives** and consider **different levels of analysis** from the **individual to the organisation** / **the local to the national to the international**.
+		- `GLOBAL SECURITY ISSUE THAT TRANSCENDS NATIONAL BOUNDARIES`
 - ### Activities
 	- **Forum Activity**
 		- Today we start by exploring recent, significant cyber incidents that catch your attention. The [CSIS list](https://www.csis.org/programs/technology-policy-program/significant-cyber-incidents) below details all significant cyber incidents since 2006. Read through the list, and select three events which interest you.
