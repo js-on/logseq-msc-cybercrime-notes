@@ -317,6 +317,5 @@
  ;;     ;use triple underscore `___` for slash `/` in page title
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
- :zotero/settings-v2 {"default" {:type-id "9329770"}}
- :editor/logical-outdenting? true
+ :zotero/settings-v2 {"default" {:type-id "JT2C8SR2"}}
  }

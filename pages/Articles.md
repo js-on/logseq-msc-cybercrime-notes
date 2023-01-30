@@ -1,0 +1,13 @@
+- [Iran attack: how Reaper drones really carry out airstrikes](https://theconversation.com/iran-attack-how-reaper-drones-really-carry-out-airstrikes-129411)
+- [How swarming drones will change warfare](https://www.bbc.com/news/technology-47555588)
+- [Cozy Bear: The Russian hacking group trying to steal the UK's coronavirus vaccine](https://www.independent.co.uk/news/uk/home-news/cozy-bear-russia-hacking-coronavirus-vaccine-oxford-imperial-college-a9623361.html)
+- [Significant Cyber Incidents in 2022](https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents)
+- [British spies waged cyber campaign against ISIS, says GCHQ chief](https://www.zdnet.com/article/british-spies-waged-cyber-campaign-against-isis-says-gchq-chief/)
+- [ISIS has its own encrypted chat app](https://techcrunch.com/2016/01/16/isis-app/?guccounter=1&guce_referrer=aHR0cHM6Ly9ybC50YWxpcy5jb20v&guce_referrer_sig=AQAAADuCn5uYysA_xg_6soz7Xmli8-SEjMqAtS1lXAzGZpQJwf1iZGBQG2Eja60JV2U8nPa6EnfLlrgneaiNZKc-sCE7Ba2DQo-_6UXuUt1P6Ey98rYJSjq3Mj7xQUtm_9Pq-2CKGN7HJK_vFwRTYAO_zifiOalWRe3687r145tf4uqA)
+  id:: 63d3b510-fe7c-4001-98e7-db1367d07408
+- [EU considers 60-minute deadline for social networks to remove terrorist content](https://www.zdnet.com/article/eu-considers-60-minute-deadline-for-social-networks-to-remove-terrorist-content/)
+- [UN Global Counter-Terrorism Strategy](https://www.un.org/counterterrorism/un-global-counter-terrorism-strategy)
+- [Facebook set to hand over Russia-bought ads](https://www.bbc.com/news/technology-41469361)
+-
+-
+- See also #Books to read and #Podcasts to listen
