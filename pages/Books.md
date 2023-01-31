@@ -9,5 +9,9 @@
 - [The Cyber Risk Handbook : Creating and Measuring Effective Cybersecurity Capabilities](https://ebookcentral.proquest.com/lib/portsmouth-ebooks/detail.action?docID=4837509)
 - [Information Security : Policy, Processes, and Practices](https://ebookcentral.proquest.com/lib/portsmouth-ebooks/detail.action?docID=435197)
 - [Driving Quality in informatics: Fulfilling the Promise](https://ebookcentral.proquest.com/lib/portsmouth-ebooks/detail.action?docID=2033823)
+- Kolb, D.A. (1984) *[Experiential Learning: Experience as the Source of Learning and Development](https://www.researchgate.net/publication/235701029_Experiential_Learning_Experience_As_The_Source_Of_Learning_And_Development)*, New Jersey: Prentice-Hall [Accessed 5 October 2020]
+  id:: 63d94f27-56ac-42f9-bca2-d7ae8f5b8b43
+- Ramsey, C. (2006) *[Introducing Reflective Learning](http://www.open.edu/openlearncreate/pluginfile.php/159274/mod_resource/content/3/Introducing%20Reflective%20learning%20Ramsey%2C%202006.pdf)*. Open University Worldwide. [Accessed 4/4/19]
+  id:: 63d94f3a-0159-41e8-ad7a-049aaf417789
 -
 - See also #Articles to read and #Podcasts to hear

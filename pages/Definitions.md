@@ -11,12 +11,17 @@
 	  hackers exploit any vulnerabilities on the website, attack them, take 
 	  charge, and then inject code that infects visitors with malware or that 
 	  leads clicks to malicious pages.
-	-
-	- Spear Phishing
--
--
--
-- Spear Phishing
--
--
--
+- [Spear Phishing](https://www.oreilly.com/library/view/cybersecurity-attack/9781788475297/46b0717c-6884-48e7-9584-029219e7f2cc.xhtml)
+  id:: 63d7f944-d682-4655-8835-a08a441ab6b7
+	- > This is also related to a normal phishing attack, but it does not send 
+	  out high volumes of emails in a random manner. Spear phishing is 
+	  specifically targeted to obtain information from particular end users in
+	   an organization. Spear phishing is more strenuous since it requires the
+	   attackers to perform a number of background checks on targets in order 
+	  to identify a victim that they can pursue. Attackers will then carefully
+	   craft an email that addresses something of interest to the target, 
+	  coercing him or her to open it.
+- [Phishing](https://www.phishing.org/what-is-phishing)
+  id:: 63d7f9a5-3ac3-441e-b0e6-a5f5174db499
+	- > Phishing is a cybercrime in which a target or targets are contacted by email, telephone or text message by someone posing as a legitimate institution to lure individuals into providing sensitive data such as personally
+	  identifiable information, banking and credit card details, and passwords.

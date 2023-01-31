@@ -67,8 +67,8 @@
 			  
 			  Vulnerabilities:
 				- Social Engineering
-					- Phishing
-					- Spear Phishing
+					- ((63d7f9a5-3ac3-441e-b0e6-a5f5174db499))
+					- ((63d7f944-d682-4655-8835-a08a441ab6b7))
 					- ((63d7f820-b7b7-4901-bbb3-49aac96abb42))
 		- Cyberspace architecture is of complex nature, since different entities / stakeholders with different motivations / objectives / agendas interact / influence activities within cyberspace.
 		- Developing / Implementing security policies / strategies is problematic / challenging.
@@ -78,13 +78,32 @@
 		- the centrality of humans in cyberspace makes social approaches imperative to the study of cyber security.
 		- it is required to develop **different perspectives** and consider **different levels of analysis** from the **individual to the organisation** / **the local to the national to the international**.
 		- `GLOBAL SECURITY ISSUE THAT TRANSCENDS NATIONAL BOUNDARIES`
+- ### Cybersecurity
+	- Definition (reflects multifaceted nature of cybersecurity):
+		- > Cybersecurity is the organisation and collection of resources, processes, and structures used to protect cyberspace and cyber-space enabled systems from occurrences that misalign de jure from de facto property rights. (Craigen et al (2014)) #definition
+	- The *five dominant domains* of cybersecurity conceptualisation literature:
+	  1. Technological solutions
+	  2. Events
+	  3. Strategies, procedures and methods
+	  4. Human engagement
+	  5. Referent objects (of security)
 - ### Activities
-	- **Forum Activity**
+	- **Forum Activity** ([Google Docs](https://docs.google.com/document/d/17ClPJ3XyNA432POUMvpHDXD6FHUChbgMhDdG1TvN8G4/edit))
 		- Today we start by exploring recent, significant cyber incidents that catch your attention. The [CSIS list](https://www.csis.org/programs/technology-policy-program/significant-cyber-incidents) below details all significant cyber incidents since 2006. Read through the list, and select three events which interest you.
 			- Why did they catch your attention?
 			- What is the significance of these incidents?
 			- How might this affect global security policy and considerations?
 		- Please post your thoughts into the discussion forum below (250 words).
 		  Read and comment on the posts of at least two of your fellow classmates.
-	- **Challenge Activity**
-		- asd
+	- **Challenge Activity** ([Google Docs](https://docs.google.com/document/d/1CNJYHGzSiaZ25yjHz8kt-lkEhS4ym0kVvk3uSh_Qu_M/edit))
+		- This module focuses on addressing this key question: ***How can we make Cyberspace safer?***
+			- Think about the different approaches in achieving this objective.
+			- Consider the human and legal perspectives of creating a safer cyberspace.
+			- Identify the challenges which states and organisations are facing in developing and implementing effective cyber-security policies in a global and interconnected cyberspace.
+		- Write down your thoughts (250 words) and share them in the discussion forum below. Comment on the posts of at least two of your fellow classmates. Aim to learn from each other
+- ### ePortfolio
+	- Question: ***Cybersecurity is only a technical issue***
+	- > asd
+	  
+	  #ePortfolio
+	-
