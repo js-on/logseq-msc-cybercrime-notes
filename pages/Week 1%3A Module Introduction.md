@@ -89,18 +89,7 @@
 	  5. Referent objects (of security)
 - ### Activities
 	- **Forum Activity** ([Google Docs](https://docs.google.com/document/d/17ClPJ3XyNA432POUMvpHDXD6FHUChbgMhDdG1TvN8G4/edit))
-		- Today we start by exploring recent, significant cyber incidents that catch your attention. The [CSIS list](https://www.csis.org/programs/technology-policy-program/significant-cyber-incidents) below details all significant cyber incidents since 2006. Read through the list, and select three events which interest you.
-			- Why did they catch your attention?
-			- What is the significance of these incidents?
-			- How might this affect global security policy and considerations?
-		- Please post your thoughts into the discussion forum below (250 words).
-		  Read and comment on the posts of at least two of your fellow classmates.
 	- **Challenge Activity** ([Google Docs](https://docs.google.com/document/d/1CNJYHGzSiaZ25yjHz8kt-lkEhS4ym0kVvk3uSh_Qu_M/edit))
-		- This module focuses on addressing this key question: ***How can we make Cyberspace safer?***
-			- Think about the different approaches in achieving this objective.
-			- Consider the human and legal perspectives of creating a safer cyberspace.
-			- Identify the challenges which states and organisations are facing in developing and implementing effective cyber-security policies in a global and interconnected cyberspace.
-		- Write down your thoughts (250 words) and share them in the discussion forum below. Comment on the posts of at least two of your fellow classmates. Aim to learn from each other
 - ### ePortfolio
 	- Question: ***Cybersecurity is only a technical issue***
 	- > asd
