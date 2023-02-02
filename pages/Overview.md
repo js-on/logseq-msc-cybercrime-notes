@@ -1,3 +1,23 @@
-- #Criminology
-- #Sociology
-- {{embed ((63c9a140-eafb-4cfa-a499-c17b61b6532a))}}
+- Lectures
+	- 1st Trimester: [[The Global Landscape of Cyber Security (Jan 2023)]]
+	- 2nd Trimester:
+	- 3rd Trimester:
+	- 4th Trimester:
+	- 5th Trimester:
+	- 6th Trimester
+-
+- #question
+	- Things which needs further research
+- #Notes
+	- General notes regarding the studies
+- #Books
+	- Books to read
+- #Articles
+	- Articles to read
+- #Podcasts
+	- Podcasts to listen to
+- #idea
+	- Things to think of
+- #toadd
+	- Sources to download and / or link to either #Books #Podcasts or #Articles
+-
