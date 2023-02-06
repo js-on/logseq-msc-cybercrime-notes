@@ -27,11 +27,11 @@
   identifiable information, banking and credit card details, and passwords.
 - [Information System](https://moodle.port.ac.uk/mod/page/view.php?id=2595408)
   id:: 63e11f1a-c6b5-411c-a3cf-67488d3f7097
-  Most of the the definitions of an IS suggest, that an IS is a group of components that interact to produce information. These components include:
+  Most of the the definitions of an IS suggest, that an IS is a group of components that interact to produce information.
+  These five components are present in every IS, from the simplest to the most complex:
+  ![information-systems-diagram.png](../assets/information-systems-diagram_1675698014400_0.png)
 	- **Hardware** (eg hard Disk Drive, Microprocessor, monitor, graphic card, ...)
 	- **Software** (systems software, application software)
 	- **Data** (that will be collected, analysed, distributed and stored)
 	- **Network components** and **telecommunications** (to connect computers)
 	- **People** (users, IT administrator, managers etc.)
-- These five components are present in every IS, from the simplest to the most complex.
-  ![information-systems-diagram.png](../assets/information-systems-diagram_1675698014400_0.png)
