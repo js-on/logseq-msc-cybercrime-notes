@@ -59,4 +59,15 @@
 	- Theme: [ja-rights](https://www.joomlart.com/demo/ja-rights)
 	- Hosting: [Scala Hosting (Joomla Mini)](https://www.scalahosting.com/joomla-hosting.html#Geekflare)
 	- Domain: stacy.social
-	-
+-
+- ### Mail fürs BSI:
+	- Sehr geehrte Mitarbeiter:innen des Bundesamts für Sicherheit in der Informationstechnik,
+	  mein Name ist Luna Marika Schaffarczyk, ich bin 21 Jahre alt, habe im Sommer '22 meinen BSc Cyber Security an der Leibniz Fachhochschule abgelegt und mache seit Januar '23 meinen MSc Cybercrime an der University of Portsmouth.
+	- Ich komme mit einem Anliegen auf Sie zu, welches mir schon etwas länger auf dem Herzen liegt. In den entsprechenden Medien, auf LinkedIn und an anderen Orten, präsentiert das BSI immer gute und kurze Fakten zur IT-Sicherheit. Allerdings erreicht es vermutlich nur bereits Interessierte Personen oder entsprechend die Nutzer von Karrierenetzwerken wie bspw. LinkedIn.
+	  Das ist gut für die Firmen und deren Mitarbeiter, die diese Netzwerke nutzen. Doch die Zukunft des Landes liegt in den Händen von Kindern, Jugendlichen und Studierenden. Diese werden oftmals nicht wissen, was das BSI ist, welche wichtige Rolle es spielt und wie wichtig IT Sicherheit im digitalen Zeitalter ist.
+	  Meine Befürchtung ist, dass das BSI an Orten, an denen jene sich aufhalten, egal ob im Reallife oder auch digital, nicht vertreten ist.
+	- Eine Idee, die ein Kommilitone und ich vor einiger Zeit hatten, wäre eine Art BSI Youth, was sich auf entsprechenden Kanälen präsentiert, mit ebenfalls leicht verständlichen aber wichtigen Informationen zur IT Sicherheit. Entsprechende kurze Unterrichtseinheiten an Schulen, waren in der Idee ebenfalls enthalten.
+	- Gibt es denn seitens des BSI bereits Ansätze, auch den jüngeren Mitglieder:innen der Gesellschaft diese wichtigen Informationen nahezubringen? Wäre es eventuell möglich mit dem BSI hinter sich, ein entsprechendes Programm mit Social Media Präsenz, jungen Vertreter:innen in den Bundesländern die jenes Programm an Schulen oder auf Messen vorstellen und entsprechenden Unterrichtsmaterialien, aufzubauen?
+	- Bitte teilen Sie mir doch ihre eventuelle bisherige Arbeit an dieser Thematik mit oder inwiefern Interesse am Aufbau eines solchen Programmes in Zusammenarbeit mit mir und ggf. anderen Schüler:innen und Studierenden besteht.
+	- Mit freundlichen Grüßen,
+	  Luna Marika Schaffarczyk

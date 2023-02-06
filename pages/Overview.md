@@ -1,5 +1,5 @@
 - Lectures
-	- 1st Trimester: [[The Global Landscape of Cyber Security (Jan 2023)]]
+	- 1st Trimester: #[[The Global Landscape of Cyber Security (Jan 2023)]]
 	- 2nd Trimester:
 	- 3rd Trimester:
 	- 4th Trimester:

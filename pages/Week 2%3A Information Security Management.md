@@ -66,7 +66,7 @@
 	- In context of [ISO / IEC 27002:2005](https://www.sciencedirect.com/science/article/pii/S0167404813000801?casa_token=WsXRP2vDTBkAAAAA:I6X1SHVJQIkmadmPa52nPf_T1aQifXeVI_e55Mzql5ftdMnCtcVcPDQvxP-dN5uU-tMxzjWaMQ), data can take on many forms. it can be printed or written on paper stored electronically, transmitted by post or electronic means, shown on films, conveyed in conversation, and so forth ([ISO/IEC 27002:2005, p1](https://www.sciencedirect.com/science/article/pii/S0167404813000801?casa_token=WsXRP2vDTBkAAAAA:I6X1SHVJQIkmadmPa52nPf_T1aQifXeVI_e55Mzql5ftdMnCtcVcPDQvxP-dN5uU-tMxzjWaMQ))
 	- Effective data classification requires an important investment in inventory of all types of storable / usable data.
 	- Formally allocate responsibilities for data ownership and protection to ensure effective data management is crucial.
-	- Problem
+	- Problem: "the standard described the practice of information classification in a general and universal manner without explaining how the practice could be accomplished in any particular organisation" (Niemimaa and Niemimaa (2017, p. 6))
 - ### Activities
 	- **Forum Activity**: [Google Docs](https://docs.google.com/document/d/1ts6-Ncg5iapZaYZ-lzImftU3p_cltFYNPoFuo_0RRCs/edit)
 	- **Challenge Activity**: [Google Docs](https://docs.google.com/document/d/1TSXTNUu4XFFFc4UvRGOpMUSDDJeQhFOMytydoRNmhAs/edit)
