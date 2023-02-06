@@ -18,6 +18,7 @@
 - Sadok M. and Bednar P. (2016) ‘Relating ICT to organizational change in research and practice’, [*Lecture Notes in Information Systems and Organisation*](https://www.scopus.com/sourceid/21100421887?origin=recordpage)*, 15*, pp. 125-139.
 - Aminzade, M. (2018). Confidentiality, integrity and availability – finding a balanced IT framework. *Network Security*, *2018*(5), 9–11. https://doi.org/10.1016/s1353-4858(18)30043-6
   id:: 63e12e21-b212-4f8c-939c-3751716e9f6a
+- Georg Disterer (2013) ISO/IEC 27000, 27001 and 27002 for Information Security Management [*Journal of Information Security*](http://dx.doi.org/10.4236/jis.2013.42011), 4, pp.92-100**.**
+- Siponen, M. and Willison, R. (2009), [Information Security Management Standards: Problems and Solutions](https://www.researchgate.net/publication/221998085_Information_security_management_standards_Problems_and_solutions). Information & Management, 46, pp.267-270.
 -
 - See also #Articles to read and #Podcasts to hear
--

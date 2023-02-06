@@ -55,7 +55,7 @@
 			  > safeguarding the accuracy and completeness of information and processing methods
 			- **Availability**
 			  > ensuring that authorised users have access to information and associated assets when required
-		- Definition of an (ISMS)
+		- Definition of an (())
 - ### Activities
 	- **Forum Activity**: [Google Docs](https://docs.google.com/document/d/1ts6-Ncg5iapZaYZ-lzImftU3p_cltFYNPoFuo_0RRCs/edit)
 	- **Challenge Activity**: [Google Docs](https://docs.google.com/document/d/1TSXTNUu4XFFFc4UvRGOpMUSDDJeQhFOMytydoRNmhAs/edit)

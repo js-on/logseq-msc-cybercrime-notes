@@ -38,8 +38,9 @@
 	  id:: 63e12217-6be4-4366-a897-6259f5a3910e
 	- The logical building blocks that make up the services and support the platform nature of cyberspace.
 	- The physical foundations that support the logical elements.
-- [Information Security](https://www.researchgate.net/profile/Segundo-Castro-Gonzales/publication/323265813_EVALUATION_OF_VULNERABILITIES_IN_COMPUTER_SYSTEMS_USERS/links/5a8afeec0f7e9b1a9555a121/EVALUATION-OF-VULNERABILITIES-IN-COMPUTER-SYSTEMS-USERS.pdf) (ISO/IEC 27000
+- [Information Security](https://www.researchgate.net/profile/Segundo-Castro-Gonzales/publication/323265813_EVALUATION_OF_VULNERABILITIES_IN_COMPUTER_SYSTEMS_USERS/links/5a8afeec0f7e9b1a9555a121/EVALUATION-OF-VULNERABILITIES-IN-COMPUTER-SYSTEMS-USERS.pdf) (ISO/IEC 27000/17799)
   id:: 63e128a7-ef7f-47c6-ae96-cacb2227d825
-	- /17799)
-	  > It's a preservation of confidentiality, integrity and availability (CIA triage) of information; in addition, other properties such as authenticity, accountability, non-repudiation and reliability can also be involved.
--
+  > It's a preservation of confidentiality, integrity and availability (CIA triage) of information; in addition, other properties such as authenticity, accountability, non-repudiation and reliability can also be involved.
+- [Information Security Management System (ISMS)](https://books.google.de/books?hl=en&lr=&id=uFObBAAAQBAJ&oi=fnd&pg=PA5&dq=%22organisational+structure,+policies,+planning+activities,+responsibilities,+practices,+procedures,+processes+and+resources,%22&ots=bVglltp1Yr&sig=phInMVwyxq_LxQ_h1lC2delu0_o&redir_esc=y#v=onepage&q=organisational%20structure%2C%20policies%2C%20planning%20activities%2C%20responsibilities%2C%20practices%2C%20procedures%2C%20processes%20and%20resources%2C&f=false)
+  > "organisational structure, policies, planning activities, responsibilities, practices, procedures, processes and resources" to ensure effective ISM. consequently, an ISMS is contextually dependent and should take into consideration the organisation's business needs and objectives, security requirements, and the structural and organisational processes used.
+	- It is sometimes difficult to achieve a good balance between the CIA triad of information. Therefore, ISM can be considered as the *art and science* of achieving an effective balance.
