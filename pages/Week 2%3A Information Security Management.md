@@ -1,6 +1,7 @@
 - ### Organisational Information Systems
-	- Definition: ((63e11f1a-c6b5-411c-a3cf-67488d3f7097))
+	- Definition: ((63e11f1a-c6b5-411c-a3cf-67488d3f7097)) aligned with the definition of ((63e121aa-e73f-4866-ac01-c421a3513c2e))
+	- The most important point in those definitions is that these definitions outline the existence of a large variety of interest groups that have the potential to significantly influence the development, the management and the implementation of an IS. this often results in complex managerial issues due to conflicting agendas of the different stakeholders.
 - ### Activities
-	- Forum Activity:
-	- Challenge Activity
+	- **Forum Activity**: [Google Docs](https://docs.google.com/document/d/1ts6-Ncg5iapZaYZ-lzImftU3p_cltFYNPoFuo_0RRCs/edit)
+	- **Challenge Activity**: [Google Docs](https://docs.google.com/document/d/1TSXTNUu4XFFFc4UvRGOpMUSDDJeQhFOMytydoRNmhAs/edit)
 	-

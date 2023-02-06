@@ -36,7 +36,8 @@
 	- ### The History of the Internet
 	  {{video https://youtu.be/VkmSjfPfXXI}}
 	- ### Cyberspace
-		- The four layers of cyberspace #definition, vulnerabilities described by *Whyte and Mazanec (2019)* in {{embed ((63d3bf58-43ff-418e-a065-97d81556a92f)) }}
+		- Definition: ((63e121aa-e73f-4866-ac01-c421a3513c2e))
+		- The four layers of cyberspace and their vulnerabilities described by *Whyte and Mazanec (2019)* in {{embed ((63d3bf58-43ff-418e-a065-97d81556a92f)) }}
 			- **Physical Layer**
 			  > The physical layer consists of the physical devices, such as PCs, networks, wires, grids and routers. These physical devices are located within jurisdictions, which is important for law enforcement when they search for physical devices used to run criminal enterprises and other cybercrimes.
 			  

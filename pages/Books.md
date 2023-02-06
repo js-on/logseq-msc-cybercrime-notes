@@ -13,5 +13,6 @@
   id:: 63d94f27-56ac-42f9-bca2-d7ae8f5b8b43
 - Ramsey, C. (2006) *[Introducing Reflective Learning](http://www.open.edu/openlearncreate/pluginfile.php/159274/mod_resource/content/3/Introducing%20Reflective%20learning%20Ramsey%2C%202006.pdf)*. Open University Worldwide. [Accessed 4/4/19]
   id:: 63d94f3a-0159-41e8-ad7a-049aaf417789
+- Kenneth C. Laundon and Jane P. Laundon (2020) Management Information Systems: Managing the Digital Firm, 16th EDITION, Pearson Education Limited
 -
 - See also #Articles to read and #Podcasts to hear

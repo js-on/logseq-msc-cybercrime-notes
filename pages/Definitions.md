@@ -26,12 +26,15 @@
   > Phishing is a cybercrime in which a target or targets are contacted by email, telephone or text message by someone posing as a legitimate institution to lure individuals into providing sensitive data such as personally
   identifiable information, banking and credit card details, and passwords.
 - [Information System](https://moodle.port.ac.uk/mod/page/view.php?id=2595408)
-  id:: 63e11f1a-c6b5-411c-a3cf-67488d3f7097
-  Most of the the definitions of an IS suggest, that an IS is a group of components that interact to produce information.
-  These five components are present in every IS, from the simplest to the most complex:
-  ![information-systems-diagram.png](../assets/information-systems-diagram_1675698014400_0.png)
-	- **Hardware** (eg hard Disk Drive, Microprocessor, monitor, graphic card, ...)
-	- **Software** (systems software, application software)
-	- **Data** (that will be collected, analysed, distributed and stored)
-	- **Network components** and **telecommunications** (to connect computers)
-	- **People** (users, IT administrator, managers etc.)
+	- > A computer-based set of hardware, software and telecommunication components, supported by people and procedures, to process data and turn it into useful information.
+	  Oz and Jones (2008)
+	- > Computer-based IS use computer technology to process raw data into meaningful information”...“An IS can be defined technically as a set of interrelated components that collect (or retrieve), process, store and distribute information to support decision making and control in an organization.
+	  Laudon and Laudon (2007)
+- [Cyber Space](https://ecir.mit.edu/sites/default/files/documents/%5BClark%5D%20Characterizing%20Cyberspace-%20Past%2C%20Present%20and%20Future.pdf) (Clark 2010)
+  id:: 63e121aa-e73f-4866-ac01-c421a3513c2e
+  > Characterising cyberspace using a model with four layers. It is not the computer that creates the phenomenon we call cyberspace. It is the interconnection that makes cyberspace - an interconnection that affects all the layers in our model. From the top down, the important layers are:
+	- The people who participate in the cyber-experience - who communicate, work with information, make decisions and carry out plans, and who themselves transform the nature of cyberspace by working with its component services and capabilities.
+	- The information that is stored, transmitted, and transformed in cyberspace.
+	  id:: 63e12217-6be4-4366-a897-6259f5a3910e
+	- The logical building blocks that make up the services and support the platform nature of cyberspace.
+	- The physical foundations that support the logical elements.
