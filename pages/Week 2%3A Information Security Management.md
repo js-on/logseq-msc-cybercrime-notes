@@ -55,7 +55,18 @@
 			  > safeguarding the accuracy and completeness of information and processing methods
 			- **Availability**
 			  > ensuring that authorised users have access to information and associated assets when required
-		- Definition of an (())
+		- Definition of an ((63e12b6a-258c-4cf9-a4b4-c8c6bd26f080))
+	- **Additional resources**
+		- Overview of ISO/IEC 27000 family
+		  ((63e1266c-94eb-4759-83f7-ad10fce476f1))
+		- Questioning the relevance and applicability of IS standards
+		  ((63e12f72-26f0-49e0-9734-4b48ace4fb63))
+- ### Data Assets Classification
+	- Classification of data according to their business sensitivity and importance is needed to ensure appropriate and effective protection (top secret / secret / classified / unclassified). It helps to optimise the cost of protection solutions / measures. Classified data serves as an input to the risk analysis process (see Week 3 #toadd )
+	- In context of [ISO / IEC 27002:2005](https://www.sciencedirect.com/science/article/pii/S0167404813000801?casa_token=WsXRP2vDTBkAAAAA:I6X1SHVJQIkmadmPa52nPf_T1aQifXeVI_e55Mzql5ftdMnCtcVcPDQvxP-dN5uU-tMxzjWaMQ), data can take on many forms. it can be printed or written on paper stored electronically, transmitted by post or electronic means, shown on films, conveyed in conversation, and so forth ([ISO/IEC 27002:2005, p1](https://www.sciencedirect.com/science/article/pii/S0167404813000801?casa_token=WsXRP2vDTBkAAAAA:I6X1SHVJQIkmadmPa52nPf_T1aQifXeVI_e55Mzql5ftdMnCtcVcPDQvxP-dN5uU-tMxzjWaMQ))
+	- Effective data classification requires an important investment in inventory of all types of storable / usable data.
+	- Formally allocate responsibilities for data ownership and protection to ensure effective data management is crucial.
+	- Problem
 - ### Activities
 	- **Forum Activity**: [Google Docs](https://docs.google.com/document/d/1ts6-Ncg5iapZaYZ-lzImftU3p_cltFYNPoFuo_0RRCs/edit)
 	- **Challenge Activity**: [Google Docs](https://docs.google.com/document/d/1TSXTNUu4XFFFc4UvRGOpMUSDDJeQhFOMytydoRNmhAs/edit)

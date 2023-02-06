@@ -19,6 +19,11 @@
 - Aminzade, M. (2018). Confidentiality, integrity and availability – finding a balanced IT framework. *Network Security*, *2018*(5), 9–11. https://doi.org/10.1016/s1353-4858(18)30043-6
   id:: 63e12e21-b212-4f8c-939c-3751716e9f6a
 - Georg Disterer (2013) ISO/IEC 27000, 27001 and 27002 for Information Security Management [*Journal of Information Security*](http://dx.doi.org/10.4236/jis.2013.42011), 4, pp.92-100**.**
+  id:: 63e1266c-94eb-4759-83f7-ad10fce476f1
 - Siponen, M. and Willison, R. (2009), [Information Security Management Standards: Problems and Solutions](https://www.researchgate.net/publication/221998085_Information_security_management_standards_Problems_and_solutions). Information & Management, 46, pp.267-270.
+  id:: 63e12f72-26f0-49e0-9734-4b48ace4fb63
+- Von Solms, R., & Van Niekerk, J. (2013). From information security to cyber security. *Computers &Amp; Security*, *38*, 97–102. https://doi.org/10.1016/j.cose.2013.04.004
+- Niemimaa, E., & Niemimaa, M. (2017). Information systems security policy implementation in practice: from best practices to situated practices. *European Journal of Information Systems*, *26*(1), 1–20. https://doi.org/10.1057/s41303-016-0025-y
+-
 -
 - See also #Articles to read and #Podcasts to hear
