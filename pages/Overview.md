@@ -5,7 +5,10 @@
 	- 4th Trimester:
 	- 5th Trimester:
 	- 6th Trimester
--
+- [[Extraordinary Lectures]]
+	- Lectures which have been taken place outside the planned timetable
+- #Definitions
+	- A list of definitions for embedding
 - #question
 	- Things which needs further research
 - #Notes

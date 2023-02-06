@@ -101,3 +101,7 @@
 			-
 - A method for information classification
 	- ![image.png](../assets/image_1675349248723_0.png)
+	- ![image.png](../assets/image_1675349445690_0.png)
+	- ![image.png](../assets/image_1675349478499_0.png)
+	- Every year there should be a reclassification, but normally, it's just done after an attack or after changing a system
+	-

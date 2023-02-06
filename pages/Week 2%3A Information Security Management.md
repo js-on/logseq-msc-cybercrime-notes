@@ -1,0 +1,6 @@
+- ### Organisational Information Systems
+	- Definition: ((63e11f1a-c6b5-411c-a3cf-67488d3f7097))
+- ### Activities
+	- Forum Activity:
+	- Challenge Activity
+	-
