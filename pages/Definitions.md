@@ -38,3 +38,6 @@
 	  id:: 63e12217-6be4-4366-a897-6259f5a3910e
 	- The logical building blocks that make up the services and support the platform nature of cyberspace.
 	- The physical foundations that support the logical elements.
+- [Information Security](https://www.researchgate.net/profile/Segundo-Castro-Gonzales/publication/323265813_EVALUATION_OF_VULNERABILITIES_IN_COMPUTER_SYSTEMS_USERS/links/5a8afeec0f7e9b1a9555a121/EVALUATION-OF-VULNERABILITIES-IN-COMPUTER-SYSTEMS-USERS.pdf) (ISO/IEC 17799)
+  > It's a preservation of confidentiality, integrity and availability (CIA triage) of information; in addition, other properties such as authenticity, accountability, non-repudiation and reliability can also be involved.
+-
