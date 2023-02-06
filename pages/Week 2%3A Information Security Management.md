@@ -41,7 +41,21 @@
 		- What is the omst efficient way of storing the data?
 		- What database management system should we use?
 - ### Information Security Management - Key Principles
-	- Definition of
+	- Definition of ((63e128a7-ef7f-47c6-ae96-cacb2227d825)))
+	- The International Standard for Information Security Management Systems is ISO/IEC 27001:2013, in particular ISO/IEC 27000, 27001, 27002 and 27005.
+	  ISO/IEC 27000 is the root for a whole numbered series of international standards for the management of information security.
+	- involves risk analysis process that identifies different vulnerabilities / threats
+	- based on the risk analysis outputs, a security policy can be developed and implemented to prevent, reduce and mitigate security risks
+	- ![information-security-management-diagram.png](../assets/information-security-management-diagram_1675701552153_0.png)
+		- **The CIA Triage**
+			- Information risks can affect one or more of the there fundamental attributes of an information asset - its availability, confidentiality and integrity (CIA Triage as its defined in ISO/IEC 27002).
+			- **Confidentiality**
+			  > ensuring that information is accessible only to those authorised to have access
+			- **Integrity**
+			  > safeguarding the accuracy and completeness of information and processing methods
+			- **Availability**
+			  > ensuring that authorised users have access to information and associated assets when required
+		- Definition of an (ISMS)
 - ### Activities
 	- **Forum Activity**: [Google Docs](https://docs.google.com/document/d/1ts6-Ncg5iapZaYZ-lzImftU3p_cltFYNPoFuo_0RRCs/edit)
 	- **Challenge Activity**: [Google Docs](https://docs.google.com/document/d/1TSXTNUu4XFFFc4UvRGOpMUSDDJeQhFOMytydoRNmhAs/edit)

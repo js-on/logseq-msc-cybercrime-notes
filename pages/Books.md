@@ -16,5 +16,8 @@
 - Kenneth C. Laundon and Jane P. Laundon (2020) Management Information Systems: Managing the Digital Firm, 16th EDITION, Pearson Education Limited
 - Alter S. (2003) ‘18 reasons why IT-reliant work systems should replace “the IT artefact” as the core subject matter of the IS field’. *Communications of the Association for Information Systems, 12*, pp.365-394.
 - Sadok M. and Bednar P. (2016) ‘Relating ICT to organizational change in research and practice’, [*Lecture Notes in Information Systems and Organisation*](https://www.scopus.com/sourceid/21100421887?origin=recordpage)*, 15*, pp. 125-139.
+- Aminzade, M. (2018). Confidentiality, integrity and availability – finding a balanced IT framework. *Network Security*, *2018*(5), 9–11. https://doi.org/10.1016/s1353-4858(18)30043-6
+  id:: 63e12e21-b212-4f8c-939c-3751716e9f6a
 -
 - See also #Articles to read and #Podcasts to hear
+-
