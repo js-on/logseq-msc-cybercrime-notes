@@ -8,7 +8,7 @@
 - #[[Extraordinary Lectures]]
 	- Lectures which have been taken place outside the planned timetable
 - #Research
-	- Research with
+	- Research with or without lecture context
 - #Definitions
 	- A list of definitions for embedding
 - #question
