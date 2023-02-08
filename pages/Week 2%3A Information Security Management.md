@@ -66,7 +66,23 @@
 	- In context of [ISO / IEC 27002:2005](https://www.sciencedirect.com/science/article/pii/S0167404813000801?casa_token=WsXRP2vDTBkAAAAA:I6X1SHVJQIkmadmPa52nPf_T1aQifXeVI_e55Mzql5ftdMnCtcVcPDQvxP-dN5uU-tMxzjWaMQ), data can take on many forms. it can be printed or written on paper stored electronically, transmitted by post or electronic means, shown on films, conveyed in conversation, and so forth ([ISO/IEC 27002:2005, p1](https://www.sciencedirect.com/science/article/pii/S0167404813000801?casa_token=WsXRP2vDTBkAAAAA:I6X1SHVJQIkmadmPa52nPf_T1aQifXeVI_e55Mzql5ftdMnCtcVcPDQvxP-dN5uU-tMxzjWaMQ))
 	- Effective data classification requires an important investment in inventory of all types of storable / usable data.
 	- Formally allocate responsibilities for data ownership and protection to ensure effective data management is crucial.
-	- Problem: "the standard described the practice of information classification in a general and universal manner without explaining how the practice could be accomplished in any particular organisation" (Niemimaa and Niemimaa (2017, p. 6))
+	- Problem: "the standard described the practice of information classification in a general and universal manner without explaining how the practice could be accomplished in any particular organisation" (Niemimaa and Niemimaa (2017, p. 6)) #toadd (link to book)
+	- **Issues**
+		- It is important to highlight the key features characterising security risks. Examining these characteristics explains the challenges and issues with ISMS.
+		- In addition to the difficulties facing organisations when it comes to data classification, ISM is challenging and problematic because of the nature of security risks. In particular, security risks are:
+		  collapsed:: true
+			- **uncertain**
+			  collapsed:: true
+				- the attack is only visible once it has taken place
+				- companies can be unaware of some targeted attacks
+			- **complex**
+			  collapsed:: true
+				- heterogeneous and geographically distributed IS (opportunity to conduct attacks from a distance)
+				- difficulty in identifying the hacker (attribution)
+				- hackers are more *inventive* and *creative*
+			- **unpredictable**
+			  collapsed:: true
+				- security technologies prevent known attacks only (eg. AV, FW, IDS, …)
 - ### Activities
-	- **Forum Activity**: [Google Docs](https://docs.google.com/document/d/1ts6-Ncg5iapZaYZ-lzImftU3p_cltFYNPoFuo_0RRCs/edit)
-	- **Challenge Activity**: [Google Docs](https://docs.google.com/document/d/1TSXTNUu4XFFFc4UvRGOpMUSDDJeQhFOMytydoRNmhAs/edit)
+	- #[[Forum Activity]] [Google Docs](https://docs.google.com/document/d/1ts6-Ncg5iapZaYZ-lzImftU3p_cltFYNPoFuo_0RRCs/edit)
+	- #[[Challenge Activity]] [Google Docs](https://docs.google.com/document/d/1TSXTNUu4XFFFc4UvRGOpMUSDDJeQhFOMytydoRNmhAs/edit)

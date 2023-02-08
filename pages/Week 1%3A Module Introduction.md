@@ -89,8 +89,8 @@
 	  4. Human engagement
 	  5. Referent objects (of security)
 - ### Activities
-	- **Forum Activity** ([Google Docs](https://docs.google.com/document/d/17ClPJ3XyNA432POUMvpHDXD6FHUChbgMhDdG1TvN8G4/edit))
-	- **Challenge Activity** ([Google Docs](https://docs.google.com/document/d/1CNJYHGzSiaZ25yjHz8kt-lkEhS4ym0kVvk3uSh_Qu_M/edit))
+	- #[[Forum Activity]] ([Google Docs](https://docs.google.com/document/d/17ClPJ3XyNA432POUMvpHDXD6FHUChbgMhDdG1TvN8G4/edit))
+	- #[[Challenge Activity]] ([Google Docs](https://docs.google.com/document/d/1CNJYHGzSiaZ25yjHz8kt-lkEhS4ym0kVvk3uSh_Qu_M/edit))
 - ### ePortfolio
 	- Question: ***Cybersecurity is only a technical issue***
 	- > asd
