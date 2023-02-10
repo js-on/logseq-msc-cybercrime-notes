@@ -16,7 +16,9 @@
 - #Notes
 	- General notes regarding the studies
 - #Books
-	- Books to read
+	- Books to read since they are only available via Proquest
+- #PDF
+	- Books / Articles / Papers downloaded as PDF
 - #Articles
 	- Articles to read
 - #Podcasts

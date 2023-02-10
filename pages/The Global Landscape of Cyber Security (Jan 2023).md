@@ -1,4 +1,14 @@
 - ![muzammil-soorma-KTdzeb28jyo-unsplash.jpg](../assets/muzammil-soorma-KTdzeb28jyo-unsplash_1675182383138_0.jpg)
 - Modules
-	- #[[Week 1: Module Introduction]]
-	- #[[Week 2: Information Security Management]]
+	- #[[Week 1: Module Introduction]] ([[Jan 27th, 2023]] - [[Feb 2th, 2023]])
+	- #[[Week 2: Information Security Management]] ([[Feb 3th, 2023]] - [[Feb 9th, 2023]])
+	- #[[Week 3: Security Risk Analysis]] ([[Feb 10th, 2023]] - [[Feb 16th, 2023]])
+	- #[[Week 4: Information Security Policy]] ([[Feb 17th, 2023]] - [[Feb 23th, 2023]])
+	- #[[Week 5: National and International Cyber-Security Strategies]]
+	- #[[Week 6: Study Week]]
+	- #[[Week 7: Cyberterrorism - A global issue]]
+	- #[[Week 8: Cyber-warfare and Cyber-weapons]]
+	- #[[Week 9: Cyber-enabled Industrial Espionage]]
+	- #[[Week 10: Global Governance of Cyber-Security]]
+	- #[[Week 11: Internet Governance - Models and Approaches]]
+	- #[[Week 12: Assignment Submission]]

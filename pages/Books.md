@@ -23,6 +23,10 @@
 - Siponen, M. and Willison, R. (2009), [Information Security Management Standards: Problems and Solutions](https://www.researchgate.net/publication/221998085_Information_security_management_standards_Problems_and_solutions). Information & Management, 46, pp.267-270.
   id:: 63e12f72-26f0-49e0-9734-4b48ace4fb63
 - Von Solms, R., & Van Niekerk, J. (2013). From information security to cyber security. *Computers &Amp; Security*, *38*, 97–102. https://doi.org/10.1016/j.cose.2013.04.004
--
+- Njenga, K., & Brown, I. (2012). [Conceptualising Improvisation in Information Systems Security](https://doi.org/10.1057/ejis.2012.3). *European Journal of Information Systems, 21*(6), 592-607.
+  id:: 63e65e4b-c642-4333-9b39-70cdc5bfb70b
+- Shedden, P., Smith, W., & Ahmad, A. (2010, 30 Nov.-2 Dec.). *Information security risk assessment: towards a business practice perspective* Proceedings of the 8th Australian Information Security Management Conference 2010, Perth, Australia.
+- Taylor, R. G. (2015). [Potential Problems with Information Security Risk Assessments](https://doi.org/10.1080/19393555.2015.1092620). *Information Security Journal: A Global Perspective, 24*(4-6),177-184.
+- Taylor, R. G., & Brice, J., Jr. (2012). Fact or fiction? A study of managerial perceptions applied to an analysis of organizational security risk. *Journal of Organizational Culture, Communications and Conflict, 16*(1),1-25.
 -
 - See also #Articles to read and #Podcasts to hear
