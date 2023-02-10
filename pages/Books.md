@@ -35,6 +35,8 @@
 - Sadok, M. and Bednar, P. (2015), “Understanding Security Practices Deficiencies: A Contextual Analysis”, in Furnell, S. and Clarke, N. (Ed.), Human Aspects of Information Security & Assurance, HAISA 2015, Lesvos, Greece, July 1-3, pp. 151-160. ![PDF](../assets/Understanding_Security_Practices_Deficiencies:_A_Contextual_Analysis_1676044905817_0_1676045257004_0.pdf)
   id:: 63e66ba2-739b-4f7d-bc76-b0e6a62c5a0d
 - Furnel S. (2016) *The Usability of Security.* [online] Available at: [The Usability of Security – Revisited](https://www.sciencedirect.com/science/article/pii/S1361372316300707) [Accessed 5 October 2020]
+  id:: 63e66b15-8023-4c0a-a544-971f1c65bb2c
 - Dhillon et al (2016) *Deciding between Information Security and Usability: Developing Value-Based Objectives*. ![PDF](../assets/1-s2.0-S0747563216302394-main_1676045756886_0.pdf)
+  id:: 01d2d704-a1e4-40ce-b8cc-7fefa126cbbc
 -
 - See also #Articles to read and #Podcasts to hear

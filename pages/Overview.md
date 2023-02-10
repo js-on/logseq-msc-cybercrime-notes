@@ -7,6 +7,8 @@
 	- 6th Trimester
 - #[[Extraordinary Lectures]]
 	- Lectures which have been taken place outside the planned timetable
+- #[[Reflective Journal]]
+	- Reflective Journal for preparing the assessements
 - #Research
 	- Research with or without lecture context
 - #Definitions
