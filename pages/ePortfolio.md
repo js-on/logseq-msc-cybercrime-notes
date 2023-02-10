@@ -10,7 +10,4 @@
 	- Consider the weekly statement and note down your initial thoughts.
 	- Ensure you apply what you have learned in this week's lecture, forums, readings and independent research into your notes.
 	- Every week we will revisit the weekly statement and, over time, develop and prepare a body of work to support both assessment artefacts.
-- **Additional Resources**
-	- ((63d94f3a-0159-41e8-ad7a-049aaf417789))
-	- ((63d94f27-56ac-42f9-bca2-d7ae8f5b8b43))
 -
