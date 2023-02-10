@@ -1,0 +1,11 @@
+- Assessment topic: *Cybersecurity is only a technical issue*
+- Every week we revisit this statement and, over time, develop and prepare a body of work to support both assessment artefacts.
+- **Week 1**
+	- asd
+- **Week 2**
+	- asd
+- **Week 3**
+	- Choose one article from the list below, write down the key findings and try to improve your Artefact 1 draft
+	- **Key Resouces**
+		- ((63e66b96-c7ad-4132-8fd1-fd454f208ac4))
+		- ((63e66ba2-739b-4f7d-bc76-b0e6a62c5a0d))

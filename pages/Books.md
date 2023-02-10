@@ -28,5 +28,13 @@
 - Shedden, P., Smith, W., & Ahmad, A. (2010, 30 Nov.-2 Dec.). *Information security risk assessment: towards a business practice perspective* Proceedings of the 8th Australian Information Security Management Conference 2010, Perth, Australia.
 - Taylor, R. G. (2015). [Potential Problems with Information Security Risk Assessments](https://doi.org/10.1080/19393555.2015.1092620). *Information Security Journal: A Global Perspective, 24*(4-6),177-184.
 - Taylor, R. G., & Brice, J., Jr. (2012). Fact or fiction? A study of managerial perceptions applied to an analysis of organizational security risk. *Journal of Organizational Culture, Communications and Conflict, 16*(1),1-25.
+- Understanding Security Practices Deficiencies: A Contextual Analysis ![Understanding Security Practices Deficiencies: A Contextual Analysis.pdf](../assets/Understanding_Security_Practices_Deficiencies:_A_Contextual_Analysis_1676044905817_0.pdf)
+- Published incidents and their proportions of human error [Published incidents and their proportions of human error](../assets/Published_incidents_and_their_proportions_of_human_error_1676045077607_0)
+- Mark Glenn Evans, Ying He, Iryna Yevseyeva and Helge Janicke (2019). Published incidents and their proportions of human error, Information & Computer Security, Vol. 27 No. 3, pp. 343-357. ![PDF](../assets/Published_incidents_and_their_proportions_of_human_error_1676045419596_0.pdf)
+  id:: 63e66b96-c7ad-4132-8fd1-fd454f208ac4
+- Sadok, M. and Bednar, P. (2015), “Understanding Security Practices Deficiencies: A Contextual Analysis”, in Furnell, S. and Clarke, N. (Ed.), Human Aspects of Information Security & Assurance, HAISA 2015, Lesvos, Greece, July 1-3, pp. 151-160. ![PDF](../assets/Understanding_Security_Practices_Deficiencies:_A_Contextual_Analysis_1676044905817_0_1676045257004_0.pdf)
+  id:: 63e66ba2-739b-4f7d-bc76-b0e6a62c5a0d
+- Furnel S. (2016) *The Usability of Security.* [online] Available at: [The Usability of Security – Revisited](https://www.sciencedirect.com/science/article/pii/S1361372316300707) [Accessed 5 October 2020]
+- Dhillon et al (2016) *Deciding between Information Security and Usability: Developing Value-Based Objectives*. ![PDF](../assets/1-s2.0-S0747563216302394-main_1676045756886_0.pdf)
 -
 - See also #Articles to read and #Podcasts to hear
