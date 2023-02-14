@@ -59,4 +59,7 @@
 		- Challenges associated with security risk analysis are far from resolved. Surveys reveal a poor effectiveness of ISM processes and indicate that organisations experience difficulties in assessing and managing their security risks, in implementing appropriate security controls, as well as in preventing security threats.
 - ### Activities
 	- #[[Forum Activity]] ([Google Docs](https://docs.google.com/document/d/194mtwoydFvTI5nNkHsmHtd6QWV-9rWD3P0w26c4GwcE/edit))
-	- #[[Challenge Activity]] ([Google Docs](https://docs.google.com/document/d/1SCXLOignUnrufsUFplIZzmF9hsGBKTYr4f95eJTQIYg) ([[hls__Cyber_Security_Breaches_Survey_2020_Statistical_Release_180620_1676042916596_0]])
+	- #[[Challenge Activity]] ([Google Docs](https://docs.google.com/document/d/1SCXLOignUnrufsUFplIZzmF9hsGBKTYr4f95eJTQIYg)
+	  ((63e66271-dbf8-4318-bae3-7d85b4683831)) )
+	  ![image.png](../assets/image_1676202124897_0.png)
+	  ![image.png](../assets/image_1676202572179_0.png)

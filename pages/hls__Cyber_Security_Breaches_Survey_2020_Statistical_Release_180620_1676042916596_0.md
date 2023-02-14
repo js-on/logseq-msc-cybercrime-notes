@@ -241,3 +241,260 @@ file-path:: ../assets/Cyber_Security_Breaches_Survey_2020_Statistical_Release_18
   hl-page:: 18
   hl-color:: red
   id:: 63e67b4f-9bdd-44d7-917e-a698b493a46f
+- underrepresent actual awareness of government communications on cyber security
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: red
+  id:: 63e8cfb2-d8aa-4036-9b50-44875e977314
+- national Cyber Aware communications campaign
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: red
+  id:: 63e8cfdb-ff9b-421e-bb14-c8dc63434534
+- 10 Steps to Cyber Security guidance
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: red
+  id:: 63e8cfe5-7002-42b1-8f0c-afd00e9edb52
+- NCSC’s Small Business Guide and Small Charity Guide, 
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: red
+  id:: 63e8cff5-e6eb-4fff-b23c-9785124d1508
+- NCSC’s Board Toolkit,
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: red
+  id:: 63e8cffd-554f-43a6-a323-d04cb3feff47
+- government-endorsed Cyber Essentials scheme
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: red
+  id:: 63e8d005-7cbe-4c4c-9ccc-d95d9c890394
+- average charity tends to be more aware than the average business
+  ls-type:: annotation
+  hl-page:: 18
+  hl-color:: red
+  id:: 63e8d011-074f-4778-af16-27e63a8a5005
+- Interviewees felt these guides would prompt discussions around policies and processes.
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: red
+  id:: 63e8d0d1-a488-4926-a8ad-2083923a81e7
+- reassurance for the organisations that had already implemented the recommended processes
+  ls-type:: annotation
+  hl-page:: 20
+  hl-color:: red
+  id:: 63e8d0dc-1728-42ab-8846-27c9f94152da
+- This means that around four in ten organisations have done none of these things.
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: red
+  id:: 63e8d132-7c08-4be1-bddb-b3e372cb14b9
+- only done a one-off internal audit and do not plan to make this a more regular activity.
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: red
+  id:: 63e8d14d-2a33-430f-b53f-277856c02646
+- Investing in threat intelligence is far less common, with just one in ten businesses and charities having done so. Even among large businesses under two-fifths (37%) pay for threat intelligence.
+  ls-type:: annotation
+  hl-page:: 21
+  hl-color:: red
+  id:: 63e8d162-a768-4340-8525-d8a35e4f272b
+- Finance or insurance firms (81%), and information and communications firms (77%
+  ls-type:: annotation
+  hl-page:: 22
+  hl-color:: red
+  id:: 63e8d191-8c74-4373-86c8-29ba80e9a76f
+- construction firms (42%) and those in the retail and wholesale sector (40%)
+  ls-type:: annotation
+  hl-page:: 22
+  hl-color:: red
+  id:: 63e8d19d-8f3b-4d2f-bbc9-7e91a90d4548
+- especially the case in smaller organisations that did not have the expertise or time to carry out a more thorough audit.
+  ls-type:: annotation
+  hl-page:: 22
+  hl-color:: red
+  id:: 63e8d1c3-f0b3-4e70-884e-cb38d3f9e2c6
+- On the whole, supplier risks appear to be a more neglected aspect of cyber security
+  ls-type:: annotation
+  hl-page:: 24
+  hl-color:: red
+  id:: 63e8d281-b156-44be-ba59-4a18546251be
+- One interviewee said it would be useful to have some best practice guidance for dealing with supplier risks.
+  ls-type:: annotation
+  hl-page:: 25
+  hl-color:: red
+  id:: 63e8d2fb-d283-4064-91f5-1cbee1d2a819
+- Small organisations often felt that they did not have enough leverage with large suppliers to enquire about their cyber security.
+  ls-type:: annotation
+  hl-page:: 25
+  hl-color:: red
+  id:: 63e8d304-0967-4440-bc6f-060ac51424cc
+- lack of centralised oversight of supplier relationships.
+  ls-type:: annotation
+  hl-page:: 25
+  hl-color:: red
+  id:: 63e8d315-37b1-459e-bd2c-0bf4b12b0f93
+- One organisation raised the issue of different partners having multiple security standards and not being flexible.
+  ls-type:: annotation
+  hl-page:: 25
+  hl-color:: red
+  id:: 63e8d32f-ff35-46b5-91b3-48ca15957765
+- three-fifths of cases (59% of the businesses and 58% of the charities with insurance) the policy covers at least one of the following: incident response, reputation management or forensic analysis
+  ls-type:: annotation
+  hl-page:: 27
+  hl-color:: red
+  id:: 63e8d3ab-bd2e-4540-8fce-062ff20abea7
+- two-fifths of businesses (37%) and just over two-fifths of charities(45%) have board members or trustees with a cyber security brief.
+  ls-type:: annotation
+  hl-page:: 30
+  hl-color:: red
+  id:: 63e8d572-6b0b-42c3-943c-f3dba3211f5e
+- Seven in ten businesses (69%) and six in ten charities (63%) have taken action on five or more of the 10 Steps as Figure 4.13 shows. Around one in ten businesses (12%) and just over one in ten charities (14%) have undertaken action on all 10 Steps. Large businesses are the most likely to have implemented all 10 Steps (42%, vs. 12% overall).
+  ls-type:: annotation
+  hl-page:: 35
+  hl-color:: red
+  id:: 63e8d682-05d9-4b3c-83d1-cb914fc8abfb
+- Almost half
+  ls-type:: annotation
+  hl-page:: 37
+  hl-color:: red
+  id:: 63e8d6e8-aa84-4ab4-871f-5644c7c8b7e1
+- Almost half of businesses (46%) and a quarter of charities (26%) report having any kind of cyber security breach or attack in the last 12 months.
+  ls-type:: annotation
+  hl-page:: 37
+  hl-color:: red
+  id:: 63e8d6f0-2b71-4d13-bd5c-0198d99226db
+- businesses that hold personal data are more likely than average to have experienced breaches or attacks (55% versus 46% overall), highlighting the importance of protecting this information.
+  ls-type:: annotation
+  hl-page:: 38
+  hl-color:: red
+  id:: 63e8d738-1b49-4cde-bd57-043b731b1613
+- One of the consistent lessons across this series of surveys has been the importance of staff vigilance, given that the vast majority of breaches and attacks being identified are ones that will come via them.
+  ls-type:: annotation
+  hl-page:: 38
+  hl-color:: red
+  id:: 63e8d772-9eec-42d4-a019-256e8be75496
+- Fraudulent emails or being directed to fraudulent websites
+  ls-type:: annotation
+  hl-page:: 38
+  hl-color:: red
+  id:: 63ea5d0b-e230-4d8d-b7a5-91447e19ac42
+  hl-stamp:: 1676303631201
+- Others impersonating organisation in emails or online
+  ls-type:: annotation
+  hl-page:: 38
+  hl-color:: red
+  id:: 63ea5d1b-112b-4d00-87e8-98d9e7e9e8bb
+- broad pattern is similar across size bands and sectors
+  ls-type:: annotation
+  hl-page:: 38
+  hl-color:: red
+  id:: 63ea5d28-a643-49c6-ae7e-e33ef99823c1
+- impersonation (62% of medium firms and 62% of large firms, vs. 26% overall)
+  ls-type:: annotation
+  hl-page:: 39
+  hl-color:: red
+  id:: 63ea5d3d-ef48-4b4f-8e79-a0272700f851
+- a rise in phishing attacks (from 72% to 86%)
+  ls-type:: annotation
+  hl-page:: 39
+  hl-color:: red
+  id:: 63ea5d56-5de6-4766-bbd7-f6e14df06796
+- All these categories are, to an extent, overlapping.
+  ls-type:: annotation
+  hl-page:: 39
+  hl-color:: red
+  id:: 63ea5d9c-b7ad-466f-b876-1f3547093de3
+- phishing attacks are considered by far the most disruptive types of attack that organisations face
+  ls-type:: annotation
+  hl-page:: 39
+  hl-color:: red
+  id:: 63ea5da5-5f00-45df-ae7e-31b9a0c6256a
+- Fraudulent emails or being directed to fraudulent websites
+  ls-type:: annotation
+  hl-page:: 40
+  hl-color:: red
+  id:: 63ea5db5-109e-4872-a18c-2363ea8d20ce
+- Others impersonating organisation in emails or online
+  ls-type:: annotation
+  hl-page:: 40
+  hl-color:: red
+  id:: 63ea5db8-0451-488c-b6e9-7b0b2da2f686
+- fraud aspect of phishing attacks, rather than the risks from malicious code (e.g. from email attachments), that are being considered more disruptive to work flows.
+  ls-type:: annotation
+  hl-page:: 40
+  hl-color:: red
+  id:: 63ea5dde-3be5-4586-bf55-1259ecbb3968
+- The vast majority of businesses (90%) and charities (89%) restore operations from their most disruptive breach or attack within 24 hours. Furthermore, seven in ten businesses (72%) and charities (68%) say it took no time at all to recover, shown in Figure 5.7.
+  ls-type:: annotation
+  hl-page:: 43
+  hl-color:: red
+  id:: 63ea5e3c-d742-4de4-b791-a0744f34c413
+- “If we lost client data, that would be reportable straight away.”
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: red
+  id:: 63ea5f0d-ea12-4851-aabc-0b0df9331331
+- “From our perspective, if someone can learn from what we’ve gone through, if one less person
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: red
+  id:: 63ea5f0f-7fb3-49da-b159-df9e4d2560b3
+- “From our perspective, if someone can learn from what we’ve gone through, if one less person can be affected, then it’s a good thing.”
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: red
+  id:: 63ea5f14-412c-4895-afe4-a82017f75290
+- a sense that reporting would not make a difference, because it was impossible to catch the perpetrators in some instances
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: red
+  id:: 63ea5f2a-1637-4623-9b55-631cc7f50ce9
+- a lack of feedback
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: red
+  id:: 63ea5f37-da32-4001-ac9a-453ec15da7dc
+- a fear of the consequences for the organisation
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: red
+  id:: 63ea5f3a-07a7-4b2d-9689-6d9afd07d436
+- responsibility for reporting lying with a different team to the one directly responding a cyber security incident
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: red
+  id:: 63ea5f49-67be-4951-b7ba-14f711e90f9d
+- a lack of awareness of specific agencies to report to, such as Action Fraud or the ICO.
+  ls-type:: annotation
+  hl-page:: 52
+  hl-color:: red
+  id:: 63ea5f55-62f6-4358-ba36-1357056bf735
+- e Cyber Security Breaches Survey 2020, the fifth in this series,
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: red
+  id:: 63ea5fd9-e75f-45c2-8a7b-584c92791a8e
+- The Cyber Security Breaches Survey 2020, the fifth in this series, shows the extent to which attitudes and approaches to cyber security have improved over time:
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: red
+  id:: 63ea5fde-0fd1-44c6-964c-0f23a32aaff2
+- potentially indicates a growing resilience to cyber attacks, based on the changes that businesses have made over the last five years
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: red
+  id:: 63ea5ff9-a531-4c8d-9348-4ef75f432816
+- It is clear from the trend findings that the General Data Protection Regulation (GDPR) has played a major role in getting organisations to review and update cyber security policies and processes. The 2020 survey shows that many of these improvements have been maintained but not enhanced.
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: red
+  id:: 63ea6020-e75d-45ea-a54f-0798732e2105
+- considerable room for improvement, in areas such as supplier risk, audit processes and the reporting of breaches
+  ls-type:: annotation
+  hl-page:: 54
+  hl-color:: red
+  id:: 63ea6031-09e0-4422-9ab9-cdbfbb242384
+-

@@ -11,6 +11,7 @@
 - Confidentiality, integrity and availability - finding a balanced IT framework ![Confidentiality, integrity and availability – finding a balanced IT framework. Network Security, 2018.pdf](../assets/Confidentiality,_integrity_and_availability_–_finding_a_balanced_IT_framework._Network_Security,_2018_1676042814979_0.pdf)
 - Cyberoperations and international humanitarian law - A review of obstacles in applying international law rules in cyber warfare ![Cyberoperations and international humanitarian law.pdf](../assets/Cyberoperations_and_international_humanitarian_law_1676042865957_0.pdf)
 - Cyber Security Breaches Survey 2020: Statistical Release ![Cyber_Security_Breaches_Survey_2020_Statistical_Release_180620.pdf](../assets/Cyber_Security_Breaches_Survey_2020_Statistical_Release_180620_1676042916596_0.pdf)
+  id:: 63e66271-dbf8-4318-bae3-7d85b4683831
 - Cyber Warfare: Issues and Challenges ![Cyberwarfare: Issues and challenges.pdf](../assets/Cyberwarfare:_Issues_and_challenges_1676042952830_0.pdf)
 - Drone usage by militant groups: exploring variation in adoption ![Drone usage by militant groups exploring variation in adoption.pdf](../assets/Drone_usage_by_militant_groups_exploring_variation_in_adoption_1676042983156_0.pdf)
 - Identifying factors of "organizational information security management" ![Identifying factors of organizational information security management.pdf](../assets/Identifying_factors_of_organizational_information_security_management_1676043016244_0.pdf)
