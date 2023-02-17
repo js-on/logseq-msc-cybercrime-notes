@@ -28,6 +28,7 @@
 - [Sci-Hub Confidentiality, integrity and availability – finding a balanced IT framework. Network Security, 2018(5), 9–11 10.1016_s1353-4858(18)30043-6.html](../assets/Sci-Hub_Confidentiality,_integrity_and_availability_–_finding_a_balanced_IT_framework._Network_Security,_2018(5),_9–11_10.1016_s1353-4858(18)30043-6_1676043211845_0.html) #toadd [https://doi.org/10.1016/S1353-4858(18)30043-6](https://doi.org/10.1016/S1353-4858(18)30043-6)
 - CSIS - Cignificant Cyber Incidents Since 2006 ![Significant Cyber Incidents Since 2006.pdf](../assets/Significant_Cyber_Incidents_Since_2006_1676043354569_0.pdf)
 - Speak their Language: Designing Effective Messages to Improve Employees' Information Security Decision Making* ![Speak their Language: Designing Effective Messages to Improve Employees’ Information Security Decision Making.pdf](../assets/Speak_their_Language:_Designing_Effective_Messages_to_Improve_Employees’_Information_Security_Decision_Making_1676043358837_0.pdf)
+  id:: 63e6645a-4b57-4415-8452-6fd810777d26
 - The information security digital divide between information security managers and users![The information security digital divide between information security managers and users.pdf](../assets/The_information_security_digital_divide_between_information_security_managers_and_users_1676043366201_0.pdf)
 - Sophos - Threatsaurus. The A-Z of computers and data security threats ![Threatsaurus_AZ.pdf](../assets/Threatsaurus_AZ_1676043376621_0.pdf)
 - From information security to cyber security ![Von Solms, R., & Van Niekerk, J. (2013). From information security to cyber security.pdf](../assets/Von_Solms,_R.,_&_Van_Niekerk,_J._(2013)._From_information_security_to_cyber_security_1676043383577_0.pdf)
@@ -36,4 +37,5 @@
 - 10 Steps to Cyber Security ![2021-10-steps-to-cyber-security-infographic.pdf](../assets/2021-10-steps-to-cyber-security-infographic_1676049400510_0.pdf)
 - Cyber Security Awareness Campaigns: Why do they fail to change behaviour? ![csss2015_bada_et_al.pdf](../assets/csss2015_bada_et_al_1676645093623_0.pdf)
   id:: 63ef92ce-df19-483c-9fcd-1036546def28
--
+- It is not my job: exploring the disconnect between corporate security policies and actual security practices in SMEs ![10-1108_ICS-01-2019-0010.pdf](../assets/10-1108_ICS-01-2019-0010_1676650008464_0.pdf)
+  id:: 63e6647e-a581-4cbf-b167-03ede3f44f7e

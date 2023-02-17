@@ -41,3 +41,9 @@
 	- **Key Resouces**
 		- ((63e66b96-c7ad-4132-8fd1-fd454f208ac4))
 		- ((63e66ba2-739b-4f7d-bc76-b0e6a62c5a0d))
+- **Week 4**
+	- This week you are tasked with critically discussing a number of human factors that have the potential to significantly influence the effectiveness of security awareness programmes. The following journal articles are a very good starting point for your reflections.
+	- ((63e6645a-4b57-4415-8452-6fd810777d26))
+	- ![CISOs and organisational culture: Their own worst enemy.pdf](../assets/CISOs_and_organisational_culture:_Their_own_worst_enemy_1676650571664_0.pdf)
+	- ![Can individuals' neutralization techniques be overcome? A field experiment on password policy](../assets/1-s2.0-S0167404819301646-main_1676650636629_0.pdf)
+-

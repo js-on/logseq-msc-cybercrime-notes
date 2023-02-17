@@ -34,4 +34,5 @@
 - ### Activities
 	- Forum Activity ([Google Docs]())
 	- Challenge Activity ([Google Docs]())
+		- **Paper**: ((63e6647e-a581-4cbf-b167-03ede3f44f7e))
 	-
