@@ -1,1 +1,2 @@
-- [[Connect Tolino with LogSeq]]
+- #[[One month into studies]]
+-
