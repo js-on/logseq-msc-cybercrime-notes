@@ -54,3 +54,5 @@
   id:: 63ff328f-59ae-420a-bbe3-3ad281814a16
 	- Change Management is the process of managing the organizational and technical aspects of the implementation of new systems, processes, and approaches within an organization. It involves an understanding of the effects of the change on stakeholders, assessing the impact of the change, creating a plan to manage the change, and guiding the change implementation process to ensure that the intended outcome is achieved.
 	  id:: 63ff32a1-fb80-4dd7-84e6-73dc4b34b1be
+- PRISM programme
+	- PRISM (short for "Planning Tool for Resource Integration, Synchronization and Management") is a data collection program set up by the United States National Security Agency (NSA) in 2007. The program was publicly revealed in 2013 by classified documents leaked by Edward Snowden. Through PRISM, the NSA collects data from internet companies including Google, Apple and Microsoft in order to track and analyze communications between foreign individuals. The program is controversial due to the potential for government overreach and a lack of transparency.
