@@ -3,9 +3,9 @@
 	- #[[Week 1: Module Introduction]] ([[Jan 27th, 2023]] - [[Feb 2th, 2023]])
 	- #[[Week 2: Information Security Management]] ([[Feb 3th, 2023]] - [[Feb 9th, 2023]])
 	- #[[Week 3: Security Risk Analysis]] ([[Feb 10th, 2023]] - [[Feb 16th, 2023]])
-	- #[[Week 4: Information Security Policy]] ([[Feb 17th, 2023]] - [[Feb 23th, 2023]])
-	- #[[Week 5: National and International Cyber-Security Strategies]]
-	- #[[Week 6: Study Week]]
+	- #[[Week 4: Information Security Policy]] ([[Feb 17th, 2023]] - [[Feb 23rd, 2023]])
+	- #[[Week 5: National and International Cyber-Security Strategies]] ([[Feb 24th, 2023]] - [[Mar 2nd, 2023]])
+	- #[[Week 6: Study Week]] ([[Mar 3rd, 2023]] - [[Mar 9th, 2023]])
 	- #[[Week 7: Cyberterrorism - A global issue]]
 	- #[[Week 8: Cyber-warfare and Cyber-weapons]]
 	- #[[Week 9: Cyber-enabled Industrial Espionage]]
