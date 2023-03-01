@@ -1,0 +1,99 @@
+- > Several national, regional and international security policies and strategies have been developed and implemented to prevent and mitigate cybersecurity risks. In addition, a number of initiatives have been taken to reinforce collaborative regulation and promote a multi-stakeholder approach to global cybersecurity governance.
+- ### Lecture - What is a Cybersecurity Strategy
+	- From a business point of view, "Strategy - is the direction and scope of an organization over the **long term**: which achieves advantage for the organization through its **configuration of resources** within a **changing environment**, to meet the needs of markets and to fulfil **stakeholder expectations**" *Johnson, Scholes & Thittington (2008)*.
+	  > In other words, organisations need to develop and implement strategies to achieve their mission and objectives
+	- A **Cybersecurity strategy**:
+		- is a vision / roadmap
+		- aims at developing resilient capabilities to cope with uncertain and complex cybersecurity risks
+		- requires an assessment of available resources to achieve the strategic cybersecurity objectives
+		- takes into consideration the expectations / interests of relevant stakeholders
+	- > It is important to develop a good understanding of these key elements of a strategy, in order to assess the effectiveness and relevance of national and / or international cybersecurity strategies.
+	- Strategy as a perspective also refers to how decision makers interpret the competitive / global / digital landscape around them
+	- Strategy as a perspective means the (business, technological, economic, political, legal, social, ...) environment is not always favourable to develop and sustain a competitive advantage and / or to achieve the strategic objectives.
+	- The [International Telecommunication Union (ITU)](https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-CYB_GUIDE.01-2018-PDF-E.pdf) created a guide for developing a national cybersecurity strategy, along with an accompanying video.
+	- <iframe width="636" height="356" src="https://www.youtube.com/embed/BfFG1pOyFjI" title="National Cybersecurity Strategy Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	-
+- ### UK Cybersecurity Strategy
+	- The [National Cyber Security Centre](https://www.ncsc.gov.uk/) (NCSC), created in 2016, plays a key role in achieving the objectives of the UK Government's National Cyber Security Strategy.
+		- Overview of [NCSC's activities / achievements](https://www.ncsc.gov.uk/news/annual-review-2020) in 2020
+		- More information about the UK National Cyber Security strategy
+		  <iframe width="636" height="356" src="https://www.youtube.com/embed/t09Aoum6mDE" title="Highlights from Cyber Strategy 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	- **UK Strategy**
+		- The UK National Cyber Security Strategy 2016-2021 comprises programmes and sets up guidelines to achieve three primary objectives: »to **defend** our cyberspace, to **deter** our adversaries and to **develop** our capabilities, all underpinned by effective **international action**«
+		- [More](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/567242/national_cyber_security_strategy_2016.pdf) information
+		- 1. **Defend**
+			- The **defend** elements of this strategy aim to "ensure that UK networks, data and systems in the public, commercial and private spheres are resilient to and protected from cyber-attack".
+				- Working with industry (e.g. CSPs)
+				- Building a more secure internet (e.g.g "encourage hardware and software providers to sell products with security settings activated as default")
+				- Protecting government (manage risks from legacy systems and unsupported software)
+				- Protecting critical national infrastructure and other priority sectors ("share threat information with industry that only the Government can obtain so they know what they must protect themselves against")
+				- Changing public and business behaviours (e.g. the cyber essentials scheme)
+				- Managing incidents and understanding the threat (e.g. "provide a single, joined-up approach to incident management")
+		- 2. **Deter**
+			- Examples of **deter** elements comprise
+				- preventing cyberterrorism
+				- enhancing sovereign capabilities
+		- 3. **Develop**
+			- Examples of **develop** elements include:
+				- strengthening cybersecurity skills
+				- stimulating growth in the cybersecurity sector
+				- effective horizon scanning (e.g. "coordinate work across disciplinary boundaries to develop a holistic approach to horizon scanning for cyber security; promote better integration of technical aspects of cyber security with behavioural science")
+		- The **international action** aims at "using our influence with multilateral organisations such as the UN, G20, NATO, OSCE, Council of Europe, the Commonwealth and within the global development community".
+		- **Read and reflect**
+			- Choose and focus on one of the elements of the UK Cyber Security Strategy (defend, deter, develop, international action).
+			- Identify the key issues and challenges with the potential to significantly influence the effective implementation of your chosen element.
+			- This useful article may support your reflection: [Security Warning: UK Critical Infrastructure Still at Risk from Devastating Cyber Attack](https://www.zdnet.com/article/uk-critical-national-infrastructure-at-risk-from-devastating-cyber-attacks-says-government-report/)
+- ### EU Cybersecurity Strategy
+	- > In 2013, the EU set out a Cybersecurity Strategy launching a series of key workstreams to improve cyber resilience. Its main goal and principles, to foster a reliable, safe and open cyber ecosystem, remain valid. But the continuously evolving and deepening threat landscape calls for more action to withstand and deter attacks in the future
+	- Full Strategy: [2013 Cybersecurity Strategy of the European Union](https://ec.europa.eu/digital-single-market/en/news/eu-cybersecurity-plan-protect-open-internet-and-online-freedom-and-opportunity-cyber-security)
+	- The 2013 strategy included five strategic priorities to promote and support "an open, safe and secure cyberspace"
+		- Achieving cyber resilience
+		- Drastically reducing cybercrime
+		- Developing cyber defence policy and capabilities related to the Common Security and Defence Policy
+		- Develop the industrial and technological resources for cybersecurity
+		- Establish a coherent international cyberspace policy for the European Union and promote vore EU values
+	- In 2017, the EU cybersecurity strategy included Resilience, Deterrence and Defence elements / targets. Each element comprises a number of measures and procedures to be developed and implemented by appropriate governmental and professional institutions
+	- Here are some examples of the actions and plans associated with the implementation of the different elements of the 2017 EU Cybersecurity Strategy (source: [Resilience, Deterrence and Defence: Building strong cybersecurity for the EU](https://www.consilium.europa.eu/media/21479/resilience_deterrence_defence_cyber-security_ec.pdf))
+	- **Actions and Plans**
+		- Under the umbrella, resilience to cyber-attacks, EU strategy aims at:
+			- Strengthening the European Union Agency for Network and Information Security
+			- EU cybersecurity certification framework
+			- Implementing the Directive on the Security of Network and Information Systems in full
+			- Resilience through raid emergency response
+		- One of the plans associated with "cyber-deterrence" consists of "stepping up the law enforcement response" (in order to facilitate cross-border access to electronic evidence)
+		- When it comes to "strengthening international cooperation on cybersecurity", the EU strategy targets include:
+			- Developing a new Capacity Building Network to support third countries' ability to address cyber threats
+			- Further cooperation between EU and NATO, including participation in parallel and coordinated exercises and enhanced interoperability of cybersecurity standards
+	- **Network and Information Systems (NIS) Directive**
+		- One of the main features of the 2017 EU Cyber Security Strategy is the Network and Information Systems (NIS) Directive 2016. It is a cornerstone of the resilience target. It aims at fostering better cooperation between the member states and supporting effective risk management practices within the economic sectors.
+		- For more details consult the [Directive of Network and Information Systems](https://ec.europa.eu/digital-single-market/en/network-and-information-security-nis-directive) webpage
+		- The NIS Directive was enacted into UK law as [The Network and Information Systems Regulations 2018](http://www.legislation.gov.uk/uksi/2018/506/made) - often referred to simply as the "[NIS-Regulations](https://www.itgovernance.co.uk/nis-directive)" - on 10 May 2018
+		- Please read this article on the [EU's involvement in developing cybersecurity capabilities](https://ec.europa.eu/digital-single-market/en/policies/cybersecurity). Make notes on the key points.
+- ### Global Cybersecurity Index (GCI)
+	- The GCI is an initiative undertaken by the International Telecommunication Union (ITU) to identify areas for improvement in the field of national cybersecurity strategies. The commitment of member states (in the regions of Africa, Americas, Arab States, Asia and the Pacific, the Commonwealth of Independent States, and Europe) to cybersecurity was assessed based on five elements: legal, technical, organisational, capacity building and cooperation
+	- The figure below shows the different metrics used to measure each of the elements:
+	  ![[CYBER1] Week 5 - Graphic.jpg](../assets/[CYBER1]_Week_5_-_Graphic_1677586712310_0.jpg)
+		-
+	- The key takeaways from the 2018 study are as follows:
+		- There is still a visible gap between many countries in terms of knowledge for the implementation of cybercrime legislation, national cybersecurity strategies (NCS), computer emergency response teams (CERTs), awareness and capacity to spread out the strategies and capabilities and programmes in the field of cybersecurity.
+		- High commitment total 54 countries, medium 53 countries, low 87 countries.
+	- This journal article presents interesting results on best practice approaches for developing national awareness campaigns in six African countries.
+	  Bada, M., von Solms, B., Agrafiotis, I. (2019). Reviewing national cybersecurity awareness for users and executives in Africa. *[International Journal On Advances in Security](https://arxiv.org/abs/1910.01005), 12*(1&2), 108-118.
+	  ![Reviewing National Cybersecurity Awareness for Users and Executives in Africa](../assets/1910.01005_1677668496204_0.pdf)
+- ### Issues
+  There are many factors that can hinder effective implementation of national and international cybersecurity initiatives / strategies, but it is relevant to include among them:
+	- **Technology**
+		- IS are more and more geographically distributed, meaning it is difficult to determine who the attackers are (the attribution problem)
+	- **Communication**
+		- Challenging coordination / communication between many involved stakeholders due to conflicting objectives / agendas / priorities. A cybersecurity strategy can be good on paper but its implementation can be sabotaged by an unsatisfied group of stakeholders.
+	- **Change Management**
+		- The implementation of a cybersecurity strategy is expected to change organisational procedures and practices, as well as to shape and monitor the behaviour of users, through education and training, to ensure compliance with security requirements. Therefore, the implementation can fail if effort at change management is insufficient or inadequate
+		-
+	- **Security vs Privacy**
+	- **Legality**
+	- **Digital Divide**
+	- **Culture**
+-
+- ### Activities
+	- Forum Activity ([Google Docs]())
+	- Challenge Activity ([Google Docs]())
