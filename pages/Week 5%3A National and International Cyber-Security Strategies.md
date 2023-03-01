@@ -72,7 +72,7 @@
 - ### Global Cybersecurity Index (GCI)
 	- The GCI is an initiative undertaken by the International Telecommunication Union (ITU) to identify areas for improvement in the field of national cybersecurity strategies. The commitment of member states (in the regions of Africa, Americas, Arab States, Asia and the Pacific, the Commonwealth of Independent States, and Europe) to cybersecurity was assessed based on five elements: legal, technical, organisational, capacity building and cooperation
 	- The figure below shows the different metrics used to measure each of the elements:
-	  ![[CYBER1] Week 5 - Graphic.jpg](../assets/[CYBER1]_Week_5_-_Graphic_1677586712310_0.jpg)
+	  ![[CYBER1] Week 5 - Graphic.jpg](../assets/[CYBER1]_Week_5_-_Graphic_1677586712310_0.jpg){:height 870, :width 827}
 		-
 	- The key takeaways from the 2018 study are as follows:
 		- There is still a visible gap between many countries in terms of knowledge for the implementation of cybercrime legislation, national cybersecurity strategies (NCS), computer emergency response teams (CERTs), awareness and capacity to spread out the strategies and capabilities and programmes in the field of cybersecurity.
