@@ -32,7 +32,7 @@
 	-
 	-
 - ### Activities
-	- Forum Activity ([Google Docs]())
-	- Challenge Activity ([Google Docs]())
+	- Forum Activity ([Google Docs](https://docs.google.com/document/d/1VD-BUHoiZIGaAOkIlTKf2drHFY6iOdc6rpF6svUsFoQ/edit))
+	- Challenge Activity ([Google Docs](https://docs.google.com/document/d/1BC-Kk7NhJigY6ACleob2Ws2uuZf_shRFZ65ySPEbL_k/edit))
 		- **Paper**: ((63e6647e-a581-4cbf-b167-03ede3f44f7e))
 	-

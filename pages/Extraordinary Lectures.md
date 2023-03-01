@@ -1,2 +1,4 @@
 - [[Feb 2nd, 2023]] [[Information Classification]]
+- [[Feb 22nd, 2023]] [[NATO Cooperative Cyber Defense Centre Virtual Tour]]
+-
 -

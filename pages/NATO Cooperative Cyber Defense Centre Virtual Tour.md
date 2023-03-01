@@ -1,0 +1,2 @@
+- ![Briefing CCDCOE 221128 no video.pdf](../assets/Briefing_CCDCOE_221128_no_video_1677670337960_0.pdf)
+	-

@@ -58,4 +58,5 @@
   id:: 63ff3469-9259-42bf-a43a-d1b78efa0ba3
 	- PRISM (short for "Planning Tool for Resource Integration, Synchronization and Management") is a data collection program set up by the United States National Security Agency (NSA) in 2007. The program was publicly revealed in 2013 by classified documents leaked by Edward Snowden. Through PRISM, the NSA collects data from internet companies including Google, Apple and Microsoft in order to track and analyze communications between foreign individuals. The program is controversial due to the potential for government overreach and a lack of transparency.
 - Five Eyes
+  id:: 63ff34de-befd-4fc7-ba8e-a6b945ef5237
 	- The Five Eyes (FVEY) is an intelligence alliance comprising Australia, Canada, New Zealand, the United Kingdom, and the United States. It is a cooperative intelligence-sharing agreement for the purpose of signals intelligence (SIGINT) and related purposes. The nations involved in the alliance share sensitive signals and communication intelligence data, as well as other intelligence information.

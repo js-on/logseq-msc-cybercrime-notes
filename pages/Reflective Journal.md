@@ -46,4 +46,11 @@
 	- ((63e6645a-4b57-4415-8452-6fd810777d26))
 	- ![CISOs and organisational culture: Their own worst enemy.pdf](../assets/CISOs_and_organisational_culture:_Their_own_worst_enemy_1676650571664_0.pdf)
 	- ![Can individuals' neutralization techniques be overcome? A field experiment on password policy](../assets/1-s2.0-S0167404819301646-main_1676650636629_0.pdf)
--
+- **Week 5**
+	- Familiarise yourself with the EU cybersecurity strategy, then reflect upon the main challenges facing EU members in preventing / responding to security risks. You can focus on ONE element (i.e. Resilience, Deterrence, Defence) and provide an in-depth discussion of its relevance.
+	- The following journal articles are a very good starting point for your reflections.
+		- Global Risk Insights: [New EU Cyber Strategy leaves Key Security Gaps](https://globalriskinsights.com/2017/10/new-eu-cyber-strategy-leaves-key-security-gaps/)
+		- Cybersecurity in the European Union and beyond: [Exploring the Threats and Policy Responses](https://www.rand.org/content/dam/rand/pubs/research_reports/RR1300/RR1354/RAND_RR1354.pdf)
+		- Paganini, P. (2016): [The EU passed the NIS Directive, its first ever Cyber Security Rules](http://securityaffairs.co/wordpress/49133/laws-and-regulations/nis-directive.html)
+		- Shinder, D. (2011): [What makes Cybercrime laws so Difficult to Enforce](http://www.techrepublic.com/blog/it-security/what-makes-cybercrime-laws-so-difficult-to-enforce/)
+		-
