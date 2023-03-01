@@ -86,10 +86,10 @@
 		- IS are more and more geographically distributed, meaning it is difficult to determine who the attackers are (the attribution problem)
 	- **Communication**
 		- Challenging coordination / communication between many involved stakeholders due to conflicting objectives / agendas / priorities. A cybersecurity strategy can be good on paper but its implementation can be sabotaged by an unsatisfied group of stakeholders.
-	- **Change Management**
-		- The implementation of a cybersecurity strategy is expected to change organisational procedures and practices, as well as to shape and monitor the behaviour of users, through education and training, to ensure compliance with security requirements. Therefore, the implementation can fail if effort at change management is insufficient or inadequate
-		-
+	- ((63ff328f-59ae-420a-bbe3-3ad281814a16))
+		- The implementation of a cybersecurity strategy is expected to change organisational procedures and practices, as well as to shape and monitor the behaviour of users, through education and training, to ensure compliance with security requirements. Therefore, the implementation can fail if effort at change management is insufficient or inadequate.
 	- **Security vs Privacy**
+		- Certain measures / controls within a cybersecurity strategy (for example to combat cyberespionage and / or cyberterrorism) can create tension between security and privacy (and / or respect of human rights). Many countries have increased their data collection mechanisms to gain access to both online data and real world communications, to identify early signs of threats and to foil potential attacks. This creates tensions between individuals' rights to privacy and the government's need to protect people and secure critical infrastructure. The revelations made by Snowden (with regard to the data collection methods of both the NSA and GCHQ in the UK)
 	- **Legality**
 	- **Digital Divide**
 	- **Culture**

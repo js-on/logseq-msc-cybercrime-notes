@@ -51,4 +51,6 @@
   id:: 63efa1e8-bd3e-494f-9259-21348b7753b9
 	- > Socio-technical is a term used to describe systems or services that are both shaped by social needs and technical requirements. It refers to the complex interplay between people, technology and organizations, and the need to understand and manage both the technological and social aspects of the system. In other words, socio-technical is a way of thinking about how technology should be designed, developed and implemented to meet the needs of people, organizations, and wider society.
 - Change Management
+  id:: 63ff328f-59ae-420a-bbe3-3ad281814a16
 	- Change Management is the process of managing the organizational and technical aspects of the implementation of new systems, processes, and approaches within an organization. It involves an understanding of the effects of the change on stakeholders, assessing the impact of the change, creating a plan to manage the change, and guiding the change implementation process to ensure that the intended outcome is achieved.
+	  id:: 63ff32a1-fb80-4dd7-84e6-73dc4b34b1be

@@ -13,6 +13,8 @@
 	- Research with or without lecture context
 - #Definitions
 	- A list of definitions for embedding
+- #Abbreviations
+	- A list of abbreviations and their meaning / definition
 - #question
 	- Things which needs further research
 - #Notes
