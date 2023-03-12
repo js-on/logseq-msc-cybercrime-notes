@@ -60,3 +60,13 @@
 - Five Eyes
   id:: 63ff34de-befd-4fc7-ba8e-a6b945ef5237
 	- The Five Eyes (FVEY) is an intelligence alliance comprising Australia, Canada, New Zealand, the United Kingdom, and the United States. It is a cooperative intelligence-sharing agreement for the purpose of signals intelligence (SIGINT) and related purposes. The nations involved in the alliance share sensitive signals and communication intelligence data, as well as other intelligence information.
+- Computer Fraud and Abuse Act
+  id:: 640d961e-06f4-48ca-925d-c9fa9ab2f6fa
+	- The Computer Fraud and Abuse Act (CFAA) is a federal anti-hacking statute enacted in 1986 prohibiting unauthorized access or “hacking” into government and financial computer systems. The CFAA is broader, however, and can be used to go after anyone who accesses a “protected computer” without authorization. The CFAA also makes it a crime to damage or impair the functioning of a protected computer, as well as trafficking in viruses and other malicious code meant for damaging computer systems.
+- USA PATRIOT Act
+  id:: 640d9c93-b19c-4931-9fb6-1d29530a21a5
+	- The USA PATRIOT Act (Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism) is a federal law that was established in 2001 following the terrorist attacks of 9/11. The act greatly increases the powers of law enforcement to investigate and prevent terrorism, both domestically and abroad. It affects a variety of areas, including surveillance, financial transactions, border control, immigration, and document authentication.
+	  id:: 640d9ca9-63c8-4929-9260-8195d97327f6
+- Organization for Economic Cooperation and Development
+  id:: 640dae06-a3a1-43d9-9e69-2506ae0bc6ff
+	- The Organization for Economic Cooperation and Development (OECD) is an intergovernmental economic organization committed to democratic principles and market economies. It is comprised of 37 member countries, including the United States, which help to promote economic growth and global economic stability. The OECD works together to address major economic and social challenges, support economic development and help businesses become more competitive. It also fosters international trade and promotes policies that protect the environment and enhance the lives of citizens. Through its various meetings and surveys, the OECD serves as one of the world’s leading sources of economic data.

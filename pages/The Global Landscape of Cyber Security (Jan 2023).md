@@ -6,7 +6,7 @@
 	- #[[Week 4: Information Security Policy]] ([[Feb 17th, 2023]] - [[Feb 23rd, 2023]])
 	- #[[Week 5: National and International Cyber-Security Strategies]] ([[Feb 24th, 2023]] - [[Mar 2nd, 2023]])
 	- #[[Week 6: Study Week]] ([[Mar 3rd, 2023]] - [[Mar 9th, 2023]])
-	- #[[Week 7: Cyberterrorism - A global issue]]
+	- #[[Week 7: Cyberterrorism - A global issue]] ([[Mar 10th, 2023]] - [[Mar 16th, 2023]])
 	- #[[Week 8: Cyber-warfare and Cyber-weapons]]
 	- #[[Week 9: Cyber-enabled Industrial Espionage]]
 	- #[[Week 10: Global Governance of Cyber-Security]]
